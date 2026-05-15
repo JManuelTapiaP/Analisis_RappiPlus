@@ -5,7 +5,7 @@ El proyecto integra limpieza de datos con Python, consultas complejas en SQL par
 
 **📂 Estructura del Proyecto**
 
-Analisis_RappiPlus_Full.ipynb: Notebook principal con las 6 etapas del análisis (Calidad, Rentabilidad, Funnel, Cohortes, A/B Testing y Visualización).
+Analisis_RappiPlus.ipynb: Notebook principal con las 6 etapas del análisis (Calidad, Rentabilidad, Funnel, Cohortes, A/B Testing y Visualización).
 
 Datasets/: Carpeta con los archivos crudos y procesados (orders, catalog, marketing_spend).
 
